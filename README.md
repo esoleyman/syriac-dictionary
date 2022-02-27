@@ -1,2 +1,2 @@
 # Overview
-Create a Syriac hunspell dictionary implementation
+A Syriac hunspell dictionary implementation
