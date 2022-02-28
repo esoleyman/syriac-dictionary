@@ -11,8 +11,8 @@ sedra.dic:  https://sedra.bethmardutho.org/about/sedra, licensed under Apache 2.
 
 ### Linux
 
-Copy the relevant files in release/, namely `syr_SY.dic` and `syr_SY.aff` under /usr/share/hunspell/
+Copy the relevant files in release/, namely `syr_SY.dic` and `syr_SY.aff` under $HOME/.local/share/hunspell
 
 ```
-sudo cp release/* /usr/share/hunspell/
+sudo cp release/* $HOME/.local/share/hunspell/
 ```
