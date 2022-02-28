@@ -24,7 +24,7 @@ Check that they have been loaded correctly
 $ nuspell -D
 
 Available dictionaries:
-syr_SY          /home/emil/.local/share/hunspell/syr_SY
+syr_SY          /home/[user]/.local/share/hunspell/syr_SY
 ```
 
 ### Mac OS X
